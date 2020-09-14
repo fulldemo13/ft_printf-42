@@ -19,6 +19,6 @@ that will mimic the real printf
 - You have to recode thelibc’sprintffunction
 - It must not do the buffer management like the realprintf
 - It will manage the following conversions: cspdiuxX%
-- It will manage any combination of the following flags: ’-0.*’ and 	minimum field width with all conversions
+- It will manage any combination of the following flags: ’-0.*’ and minimum field width with all conversions
 - It will be compared with the real printf
-- You must use the commandarto create your librairy, using the 			commandlibtool is forbidden.
+- You must use the commandarto create your librairy, using the commandlibtool is forbidden.
