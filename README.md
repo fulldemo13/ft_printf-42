@@ -13,6 +13,7 @@ The key to a successful ft_printf is a well-structured and good extensible code.
 # Mandatory part
 
 External functions allowed: malloc, free, write, va_start, va_arg, va_copy, va_end
+
 Description: Write a library that contains ft_printf, a function
 that will mimic the real printf
 ```
