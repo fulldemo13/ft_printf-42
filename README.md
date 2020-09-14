@@ -1,5 +1,7 @@
 # printf
--100/100
+
+```
+- 100/100
 
 
 # Introduction
